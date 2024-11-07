@@ -5,4 +5,5 @@ in_menu: true
 ---
 # L'Échappée Belle
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Lopos est un projet personnel de **LLS** qui à pour objectif de produire ces propre outils.
+A l'origine créer sur le nom LPS pour (liberté programmation Systeme) est devenue Lopos (juste par ce que plus stylé)

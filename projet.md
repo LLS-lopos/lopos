@@ -11,4 +11,4 @@ in_menu: true
     - [doc GLFW](https://www.glfw.org/documentation.html)
     - [guide pratique](https://learnopengl.com/) 
 
-- [GEL](https://github.com/LLS-lopos/GameEngineLopos) 
+- GitHub du Projet [GEL](https://github.com/LLS-lopos/GameEngineLopos) 

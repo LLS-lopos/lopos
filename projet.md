@@ -10,3 +10,5 @@ in_menu: true
     - [wiki OpenGL](https://www.khronos.org/opengl/wiki/)
     - [doc GLFW](https://www.glfw.org/documentation.html)
     - [guide pratique](https://learnopengl.com/) 
+
+- [GEL](https://github.com/LLS-lopos/GameEngineLopos) 

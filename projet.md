@@ -5,7 +5,7 @@ in_menu: true
 ---
 ## Création d'un moteur de jeu:
     - lien utiles:
-        - [initiation à C/C++](https://darkreader.org/)
+        - [initiation à C/C++](https://www.learncpp.com/)
         - [doc OpenGL](https://registry.khronos.org/OpenGL/index_gl.php/specs/es/3.0/extensions/WIN/docs/specs/gl/ABI/extensions/WIN/docs/extensions/INTEL/extensions/APPLE/extensions/AMD/ABI/extensions/ARB/index.php)
         - [wiki OpenGL](https://www.khronos.org/opengl/wiki/)
         - [doc GLFW](https://www.glfw.org/documentation.html)

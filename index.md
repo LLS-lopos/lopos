@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Lopos  ![Logo]({% link images/lopos_icon2.png %})
+# Lopos  ![Logo]({% link images/lopos_icon2.svg %})
 
 Lopos est un projet personnel de **LLS** qui à pour objectif de produire ces propre outils.
 

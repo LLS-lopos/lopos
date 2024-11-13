@@ -8,5 +8,3 @@ in_menu: true
 Lopos est un projet personnel de **LLS** qui à pour objectif de produire ces propre outils.
 
 A l'origine créer sur le nom LPS pour (liberté programmation Systeme) est devenue Lopos (juste par ce que plus stylé)
-
-![kartAP]({% link images/kartAP.jpg %}) 

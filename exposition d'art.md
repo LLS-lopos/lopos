@@ -1,6 +1,6 @@
 ---
 title: "Exposition D'art"
-order: 6
+order: 3
 in_menu: true
 ---
 ![kartAP]({% link images/kartAP.jpg %})

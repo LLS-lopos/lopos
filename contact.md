@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 2
+order: 4
 in_menu: true
 ---
 Lopos est actuellement composée de 1 membres.

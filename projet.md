@@ -10,5 +10,6 @@ in_menu: true
     - [wiki OpenGL](https://www.khronos.org/opengl/wiki/)
     - [doc GLFW](https://www.glfw.org/documentation.html)
     - [guide pratique](https://learnopengl.com/) 
+    - [spécification OpenGL 3.3](https://registry.khronos.org/OpenGL/specs/gl/glspec33.core.pdf)
 
 - GitHub du Projet [GEL](https://github.com/LLS-lopos/GameEngineLopos) 

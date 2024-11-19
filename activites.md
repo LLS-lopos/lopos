@@ -3,6 +3,7 @@ title: "Activités"
 order: 2
 in_menu: true
 ---
+<link rel="icon" href="images/lopos_icon.ico" type="image/x-icon">
 Activité de lopos
 
 ## Nos activités

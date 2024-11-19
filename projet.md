@@ -3,6 +3,7 @@ title: "Projet"
 order: 1
 in_menu: true
 ---
+<link rel="icon" href="images/lopos_icon.ico" type="image/x-icon">
 ## Création d'un moteur de jeu:
 - lien utiles:
     - [initiation à C/C++](https://www.learncpp.com/)

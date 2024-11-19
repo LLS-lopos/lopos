@@ -3,6 +3,7 @@ title: "Exposition D'art"
 order: 3
 in_menu: true
 ---
+<link rel="icon" href="images/lopos_icon.ico" type="image/x-icon">
 ![kartAP]({% link images/kartAP.jpg %})
 **kart modéliser (Blender)** 
 

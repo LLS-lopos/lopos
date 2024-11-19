@@ -3,6 +3,7 @@ layout: default
 title: Articles
 permalink: /articles/
 ---
+<link rel="icon" href="images/lopos_icon.ico" type="image/x-icon">
 <h1>
   Articles
 </h1>
